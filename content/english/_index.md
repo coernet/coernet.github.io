@@ -6,8 +6,8 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Coba Gratis"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Tutorial"
+    link: "https://coernet.github.io/blog/"
 
 # Features
 features:
@@ -23,8 +23,8 @@ features:
       - "**Open-source dan gratis** untuk penggunaan pribadi dan komersial"
     button:
       enable: false
-      label: "Mulai Sekerang"
-      link: "#"
+      label: "Recomendasi"
+      link: "https://coernet.github.io/categories/"
 
   - title: "Temukan Fitur Utama Hugo"
     image: "/images/service-2.png"
@@ -34,9 +34,9 @@ features:
       - "Dapat disesuaikan: Tailwind, MDX, dan 100+ integrasi lain untuk dipilih."
       - "UI-agnostic: Mendukung React, Preact, Svelte, Vue, Solid, Lit dan banyak lagi."
     button:
-      enable: true
+      enable: false
       label: "Mulai Sekarang"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://coernet.github.io/categories/"
 
   - title: "Alasan Utama Memilih Hugo untuk Proyek Hugo Anda"
     image: "/images/service-3.png"
