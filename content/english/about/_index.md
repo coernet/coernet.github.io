@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, Saya Coer neat!"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Blog ini ditulis terinspirasi dari sebuah blog petani kode yang membagikan pengalaman dan ilmunya melalui sebuah tulisan yang dapat membantu orang lain mengatasi masalh dan belajar lebih mudah di bidang IT.
