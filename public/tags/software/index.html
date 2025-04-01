@@ -80,7 +80,7 @@
 
 
 
-<title>Hugoplate</title>
+<title>Coernet</title>
 
 
 
@@ -180,13 +180,13 @@
 
 
 
-<meta property="og:title" content="Hugoplate" />
+<meta property="og:title" content="Coernet" />
 <meta property="og:description" content="Hugo &amp; Tailwindcss Starter" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://localhost:1313/tags/software/" />
 
 
-<meta name="twitter:title" content="Hugoplate" />
+<meta name="twitter:title" content="Coernet" />
 <meta name="twitter:description" content="Hugo &amp; Tailwindcss Starter" />
 
 
@@ -204,9 +204,56 @@
 
 
 
+  
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-R3BJX5TS3G"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-R3BJX5TS3G');
+        }
+      </script>
 
 
 
+
+
+<script>
+  !(function () {
+    let t = 0;
+    document.addEventListener("mousemove", function () {
+      1 == ++t && gtmLoader();
+    }),
+      (window.onscroll = function (n) {
+        1 == ++t &&gtmLoader();
+      }),
+      setTimeout(function () {
+        0 === t && (t++, gtmLoader());
+      }, 5e3);
+  })();
+
+  function gtmLoader() {
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        "gtm.start": new Date().getTime(),
+        event: "gtm.js",
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-PM3FNN62");
+  }
+</script>
 
 
 

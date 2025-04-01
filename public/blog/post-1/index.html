@@ -209,9 +209,56 @@
 
 
 
+  
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-R3BJX5TS3G"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-R3BJX5TS3G');
+        }
+      </script>
 
 
 
+
+
+<script>
+  !(function () {
+    let t = 0;
+    document.addEventListener("mousemove", function () {
+      1 == ++t && gtmLoader();
+    }),
+      (window.onscroll = function (n) {
+        1 == ++t &&gtmLoader();
+      }),
+      setTimeout(function () {
+        0 === t && (t++, gtmLoader());
+      }, 5e3);
+  })();
+
+  function gtmLoader() {
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        "gtm.start": new Date().getTime(),
+        event: "gtm.js",
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-PM3FNN62");
+  }
+</script>
 
 
 
@@ -1366,7 +1413,7 @@
 
   
   <h4 class="mb-3">
-    <a href="/blog/post-3/">
+    <a href="/blog/post-2/">
       How to build an Application with modern Technology
     </a>
   </h4>
@@ -1374,17 +1421,25 @@
   
     <ul class="mb-4">
       <li class="mr-4 inline-block">
-        <a href="/authors/john-doe/">
-          <i class="fa-regular fa-circle-user mr-2"></i>John Doe
+        <a href="/authors/sam-wilson/">
+          <i class="fa-regular fa-circle-user mr-2"></i>Sam Wilson
         </a>
       </li>
       <li class="mr-4 inline-block">
         <i class="fa-regular fa-folder mr-1"></i>
         
           <a
-            href="/categories/software/"
+            href="/categories/technology/"
             class="ms-1"
-            >Software
+            >Technology
+              ,
+            
+          </a>
+        
+          <a
+            href="/categories/data/"
+            class="ms-1"
+            >Data
           </a>
         
       </li>
@@ -1392,7 +1447,7 @@
   
   <p class="mb-6">Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 </p>
-  <a class="btn btn-outline-primary btn-sm" href="/blog/post-3/">
+  <a class="btn btn-outline-primary btn-sm" href="/blog/post-2/">
     Read More
   </a>
 </div>
@@ -1520,7 +1575,7 @@
 
   
   <h4 class="mb-3">
-    <a href="/blog/post-2/">
+    <a href="/blog/post-3/">
       How to build an Application with modern Technology
     </a>
   </h4>
@@ -1528,25 +1583,17 @@
   
     <ul class="mb-4">
       <li class="mr-4 inline-block">
-        <a href="/authors/sam-wilson/">
-          <i class="fa-regular fa-circle-user mr-2"></i>Sam Wilson
+        <a href="/authors/john-doe/">
+          <i class="fa-regular fa-circle-user mr-2"></i>John Doe
         </a>
       </li>
       <li class="mr-4 inline-block">
         <i class="fa-regular fa-folder mr-1"></i>
         
           <a
-            href="/categories/technology/"
+            href="/categories/software/"
             class="ms-1"
-            >Technology
-              ,
-            
-          </a>
-        
-          <a
-            href="/categories/data/"
-            class="ms-1"
-            >Data
+            >Software
           </a>
         
       </li>
@@ -1554,7 +1601,7 @@
   
   <p class="mb-6">Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 </p>
-  <a class="btn btn-outline-primary btn-sm" href="/blog/post-2/">
+  <a class="btn btn-outline-primary btn-sm" href="/blog/post-3/">
     Read More
   </a>
 </div>
