@@ -5,7 +5,7 @@ banner:
   content: "Hugoplate adalah templat permulaan gratis yang dibuat dengan Hugo dan TailwindCSS, menyediakan semua yang Anda butuhkan untuk memulai proyek Hugo Anda dan menghemat waktu yang berharga."
   image: "/images/banner.png"
   button:
-    enable: true
+    enable: false
     label: "Tutorial"
     link: "https://coernet.github.io/blog/"
 
