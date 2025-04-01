@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Apa Kata Pengguna Tentang Hugoplate"
 description: "Jangan hanya percaya kata-kata kami - dengarkan beberapa pengguna kami yang puas! Lihat beberapa testimonial kami di bawah ini untuk mengetahui apa yang dikatakan orang lain tentang Hugoplate."
 
