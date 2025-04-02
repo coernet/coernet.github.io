@@ -1915,9 +1915,6 @@
   .mt-11 {
     margin-top: calc(var(--spacing) * 11);
   }
-  .mt-20 {
-    margin-top: calc(var(--spacing) * 20);
-  }
   .mr-1 {
     margin-right: calc(var(--spacing) * 1);
   }

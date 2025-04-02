@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+copyright = "Designed & Developed by [Absolute Comp](https://coernet.github.io/)"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -63,9 +63,9 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+description = "Linux & Tutorial"
+author = "Absolute.Comp"
+twitter = "AbsoluteComp"
 image = "images/og-image.png"
 
 
