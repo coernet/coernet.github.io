@@ -1,5 +1,5 @@
 ---
-title: "Tutorial Posts"
+title: "Tutorial"
 meta_title: ""
-description: "this is meta description"
+description: "Temukan tutorial berdasarkan minatmu."
 ---
