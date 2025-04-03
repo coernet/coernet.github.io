@@ -6,7 +6,7 @@ banner:
   image: "/images/banner-home.png"
   button:
     enable: false
-    label: "Tutorial"
+    label: " "
     link: "https://coernet.github.io/blog/"
 
 # Features
