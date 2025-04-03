@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-Tempat Menyimpan memori tentang seputar duinia komputer dan software
+Hi! 👋, Saya Ichal. Founder Absolute dan Web Developer Expert. Suka belajar hal baru dan menulis.

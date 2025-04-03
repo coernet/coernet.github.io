@@ -1,23 +1,13 @@
-#################### default parameters ############################
-# favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
-# logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/logo.png"
 logo_darkmode = "images/logo-darkmode.png"
-# use `px` or `x` with logo_width, example: "100px".
-# Note: logo_width is not work with .svg file
-logo_width = "160px"
+logo_width = "130px"
 logo_height = "32px"
-# if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
-# logo text will only show when logo is missing.
 logo_text = "Absolute"
-# navbar fixed to top
 navbar_fixed = true
-# theme-mode
 theme_switcher = true
-theme_default = "system" # available options [light/dark/system]
-# Main Sections
+theme_default = "system"
 mainSections = ["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
@@ -32,13 +22,13 @@ copyright = "Designed & Developed by [Absolute Comp](https://coernet.github.io/)
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+enable = true
+preloader = "486.gif" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
 enable = false
-label = "get a quote"
+label = "News"
 link = "contact"
 
 # search
