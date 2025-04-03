@@ -10,15 +10,14 @@ tags: ["windows", "Ms.Ofice"]
 draft: false
 ---
 
-
 {{< image src="images/keys.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 
-### <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+# Microsoft  Activation  Scripts (MAS)
 
-<h4 align="center">☁ Unduh / Bagaimana cara menggunakannya?</h4>
+## ☁ Unduh / Bagaimana cara menggunakannya?
 
-###### <h3 align="center">Metode 1 - PowerShell (Windows 8 dan yang lebih baru) ❤️</h3>
+### Metode 1 - PowerShell (Windows 8 dan yang lebih baru) ❤️
 
 <hr>
 
@@ -35,7 +34,7 @@ Alternatifnya, Anda dapat menggunakan yang berikut ini (Ini akan ditinggalkan di
 irm https://massgrave.dev/get | iex
 ```
 
-###### <h3 align="center">Metode 2 - Tradisional (Windows 7 dan yang lebih baru)</h3>
+#### Metode 2 - Tradisional (Windows 7 dan yang lebih baru)
 
 <hr>
 
@@ -54,7 +53,9 @@ Di folder yang diekstrak, temukan folder bernama All-In-One-Version
 Anda akan melihat opsi aktivasi, ikuti petunjuk di layar.
 Itu saja.
 
-# Tidak berfungsi ❓
+<hr>
+
+#### Tidak berfungsi ❓
 Jika Anda tidak dapat meluncurkan MAS menggunakan metode PowerShell, silakan lihat Metode 2 yang tercantum di atas.
 Jika MAS diluncurkan dan skrip menunjukkan kesalahan apa pun, periksa langkah pemecahan masalah yang disebutkan dalam warna biru dan coba ikuti langkah tersebut.
 Jika Anda mengalami masalah, jangan ragu untuk menghubungi kami di [sini](https://massgrave.dev/troubleshoot).

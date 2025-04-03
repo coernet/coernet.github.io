@@ -22,8 +22,8 @@ copyright = "Designed & Developed by [Absolute Comp](https://coernet.github.io/)
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
-enable = true
-preloader = "486.gif" # use jpg, png, svg or gif format.
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
@@ -36,7 +36,7 @@ link = "contact"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["turorial"]
+include_sections = ["tutorial"]
 show_image = true
 show_description = true
 show_tags = true

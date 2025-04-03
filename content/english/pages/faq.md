@@ -7,10 +7,8 @@ description: "Pertanyaan yang Sering Ditanyakan"
 # save as draft
 draft: false
 ---
+
 Pertanyaan yang Sering Ditanyakan
-
-
-{{< toc >}}
 
 ### Kenapa anamanya Absolute
 

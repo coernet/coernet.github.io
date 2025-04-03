@@ -62,11 +62,11 @@ unsafe = true
 
 [markup.highlight]
 style = 'monokai' 
-lineNumbersInTable = false
+lineNumbersInTable = true
 
 [markup.tableOfContents]
-startLevel = 0
-endLevel = 0
+startLevel = 2
+endLevel = 5
 ordered = true
 
 [mediaTypes]
