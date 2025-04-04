@@ -12,12 +12,11 @@ draft: false
 
 {{< image src="images/keys.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
+<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
-# Microsoft  Activation  Scripts (MAS)
+<p align="center">⭐ Ikuti Langkah-langkah brikut ini dan <a> pastikan  komputer atau laptop anda terhubung dengan internet 👀 </a></b>.</p>
 
-## ☁ Unduh / Bagaimana cara menggunakannya?
-
-### Metode 1 - PowerShell (Windows 8 dan yang lebih baru) ❤️
+#### Metode 1 - PowerShell (Windows 8 dan yang lebih baru) ❤️
 
 <hr>
 
