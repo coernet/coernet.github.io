@@ -16,11 +16,11 @@
       <description>&lt;img&#xD;&#xA;            title=&#34;image title&#34;&#xD;&#xA;            loading=&#34;lazy&#34;&#xD;&#xA;            decoding=&#34;async&#34;&#xD;&#xA;            class=&#34;img img-fluid img-center&#34;&#xD;&#xA;            width=&#34;128&#34;&#xD;&#xA;            height=&#34;128&#34;&#xD;&#xA;            src=&#34;http://localhost:1313/images/keys_hu_154760d69fbda505.png&#34;&#xD;&#xA;            alt=&#34;alter-text&#34;&#xD;&#xA;            onerror=&#34;this.onerror=&#39;null&#39;;this.src=&#39;\/images\/keys_hu_154760d69fbda505.png&#39;&#34; /&gt;&#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;script&gt;&#xD;&#xA;    window.addEventListener(&#34;load&#34;, (e) =&gt; {&#xD;&#xA;      const lightbox = GLightbox();&#xD;&#xA;    });&#xD;&#xA;  &lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h1 align=&#34;center&#34;&gt;Microsoft  Activation  Scripts (MAS)&lt;/h1&gt;&#xA;&lt;p align=&#34;center&#34;&gt;⭐ Ikuti Langkah-langkah brikut ini dan &lt;a&gt; pastikan  komputer atau laptop anda terhubung dengan internet 👀 &lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How to build an Application with modern Technology</title>
+      <title>Memperbaiki taskbar tidak berfungsi windows</title>
       <link>http://localhost:1313/tutorial/post-2/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tutorial/post-2/</guid>
-      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Taskbar pada Windows 11 terkadang tidak berfungsi atau tidak merespon. Melalui postingan ini, kami akan memberikan solusinya.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

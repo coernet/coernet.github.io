@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on Coernet</title>
-    <link>http://localhost:1313/categories/technology/</link>
-    <description>Recent content in Technology on Coernet</description>
+    <title>Taskbar on Coernet</title>
+    <link>http://localhost:1313/tags/taskbar/</link>
+    <description>Recent content in Taskbar on Coernet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/taskbar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memperbaiki taskbar tidak berfungsi windows</title>
       <link>http://localhost:1313/tutorial/post-2/</link>
