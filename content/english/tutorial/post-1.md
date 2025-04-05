@@ -6,7 +6,7 @@ date: 2022-04-04T05:00:00Z
 image: "/images/office.jpg"
 categories: ["Application", "Data"]
 author: "John Doe"
-tags: ["windows", "Ms.Ofice"]
+tags: ["windows", "Ms.Office"]
 draft: false
 ---
 

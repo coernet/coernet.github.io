@@ -2,80 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:46249/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/application/</loc>
+    <loc>http://localhost:46249/categories/application/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/architecture/</loc>
+    <loc>http://localhost:46249/categories/architecture/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tutorial/post-1/</loc>
+    <loc>http://localhost:46249/tutorial/post-1/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:46249/tutorial/post-3/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/data/</loc>
+    <loc>http://localhost:46249/categories/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tutorial/post-3/</loc>
+    <loc>http://localhost:46249/categories/data/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tutorial/post-4/</loc>
+    <loc>http://localhost:46249/tutorial/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tutorial/post-2/</loc>
+    <loc>http://localhost:46249/tutorial/post-2/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ms.ofice/</loc>
+    <loc>http://localhost:46249/tags/ms.office/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/silicon/</loc>
+    <loc>http://localhost:46249/tags/silicon/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/software/</loc>
+    <loc>http://localhost:46249/categories/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/software/</loc>
+    <loc>http://localhost:46249/tags/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:46249/categories/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tailwind/</loc>
+    <loc>http://localhost:46249/tags/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/technology/</loc>
+    <loc>http://localhost:46249/tags/tutorial/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/technology/</loc>
+    <loc>http://localhost:46249/tutorial/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <loc>http://localhost:46249/tags/virus/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tutorial/</loc>
+    <loc>http://localhost:46249/tags/windows/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/windows/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <loc>http://localhost:46249/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://localhost:46249/authors/coer-neat/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/coer-neat/</loc>
+    <loc>http://localhost:46249/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:46249/faq/</loc>
   </url><url>
-    <loc>http://localhost:1313/faq/</loc>
+    <loc>http://localhost:46249/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:46249/privacy-policy/</loc>
   </url><url>
-    <loc>http://localhost:1313/privacy-policy/</loc>
+    <loc>http://localhost:46249/pages/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
-  </url><url>
-    <loc>http://localhost:1313/sections/</loc>
+    <loc>http://localhost:46249/sections/</loc>
   </url>
 </urlset>
