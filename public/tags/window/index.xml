@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Window on Coernet</title>
-    <link>http://localhost:46249/tags/window/</link>
+    <link>http://localhost:37135/tags/window/</link>
     <description>Recent content in Window on Coernet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:46249/tags/window/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:37135/tags/window/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menonaktifkan Update Windows</title>
-      <link>http://localhost:46249/tutorial/post-4/</link>
+      <link>http://localhost:37135/tutorial/post-4/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:46249/tutorial/post-4/</guid>
-      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+      <guid>http://localhost:37135/tutorial/post-4/</guid>
+      <description>&lt;p&gt;PEMBARUAN Windows adalah proses di mana sistem operasi Windows diperbarui dengan pemutakhiran terbaru dari Microsoft. Pembaruan ini mungkin mencakup perbaikan keamanan, perbaikan bug, peningkatan fitur, dan lainnya. Pembaruan Windows sangat penting karena membantu menjaga komputer Anda tetap aman dan berfungsi dengan baik.&lt;/p&gt;&#xA;&lt;p&gt;Biasanya, pembaruan otomatis dapat meningkatkan kinerja dan keamanan komputer atau laptop. Namun, sebagian orang menganggap fitur ini mengganggu.&lt;/p&gt;&#xA;&lt;p&gt;Masalah ini sering ditemui oleh pengguna Windows 10. Sistem operasi ini memiliki fitur pembaruan otomatis yang sering kali datang secara tak terduga.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,52 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Coernet</title>
-    <link>http://localhost:46249/tags/</link>
+    <link>http://localhost:37135/tags/</link>
     <description>Recent content in Tags on Coernet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:46249/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:37135/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ms.Office</title>
-      <link>http://localhost:46249/tags/ms.office/</link>
+      <link>http://localhost:37135/tags/ms.office/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:46249/tags/ms.office/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Silicon</title>
-      <link>http://localhost:46249/tags/silicon/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:46249/tags/silicon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>http://localhost:46249/tags/technology/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:46249/tags/technology/</guid>
+      <guid>http://localhost:37135/tags/ms.office/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:46249/tags/tutorial/</link>
+      <link>http://localhost:37135/tags/tutorial/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:46249/tags/tutorial/</guid>
+      <guid>http://localhost:37135/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Virus</title>
-      <link>http://localhost:46249/tags/virus/</link>
+      <link>http://localhost:37135/tags/virus/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:46249/tags/virus/</guid>
+      <guid>http://localhost:37135/tags/virus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Window</title>
+      <link>http://localhost:37135/tags/window/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:37135/tags/window/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://localhost:46249/tags/windows/</link>
+      <link>http://localhost:37135/tags/windows/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:46249/tags/windows/</guid>
+      <guid>http://localhost:37135/tags/windows/</guid>
       <description></description>
     </item>
   </channel>

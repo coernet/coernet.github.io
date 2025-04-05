@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Coernet</title>
-    <link>http://localhost:46249/pages/</link>
+    <link>http://localhost:37135/pages/</link>
     <description>Recent content in Pages on Coernet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:46249/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:37135/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAQs</title>
-      <link>http://localhost:46249/faq/</link>
+      <link>http://localhost:37135/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46249/faq/</guid>
+      <guid>http://localhost:37135/faq/</guid>
       <description>&lt;p&gt;Pertanyaan yang Sering Ditanyakan&lt;/p&gt;&#xA;&lt;h3 id=&#34;kenapa-anamanya-absolute&#34;&gt;Kenapa anamanya Absolute&lt;/h3&gt;&#xA;&lt;p&gt;Agar mudah diingat 😄.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kebijakan Privasi</title>
-      <link>http://localhost:46249/privacy-policy/</link>
+      <link>http://localhost:37135/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46249/privacy-policy/</guid>
+      <guid>http://localhost:37135/privacy-policy/</guid>
       <description>&lt;p&gt;Kami mengumpulkan informasi dari Anda ketika Anda melakukan login untuk memberikan komentar, pengisian form kontak kami, mengikuti kegiatan-kegiatan yang diselenggarakan ataupun pengumpulan informasi lainnya. Saat mengisi data di situs Petani Kode, sebagaimana mestinya, Anda mungkin akan diminta untuk memasukkan: nama, alamat e-mail, alamat tempat tinggal, nomor telepon atau akun jejaring sosial. Anda juga dapat mengunjungi situs kami secara anonim (tidak dikenal).&lt;/p&gt;</description>
     </item>
   </channel>

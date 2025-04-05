@@ -4,7 +4,7 @@ meta_title: ""
 description: "Aktivasi windows dan office"
 date: 2022-04-04T05:00:00Z
 image: "/images/office.jpg"
-categories: ["Application", "Data"]
+categories: ["Tutorial"]
 author: "John Doe"
 tags: ["windows", "Ms.Office"]
 draft: false

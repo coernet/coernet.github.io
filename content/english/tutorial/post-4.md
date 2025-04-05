@@ -4,7 +4,7 @@ meta_title: ""
 description: "window update"
 date: 2022-04-04T05:00:00Z
 image: "/images/window-update.jpg"
-categories: ["Architecture"]
+categories: ["Tutorial"]
 author: "John Doe"
 tags: ["window", "tutorial"]
 draft: false

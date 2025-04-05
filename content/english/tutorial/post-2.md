@@ -4,7 +4,7 @@ meta_title: ""
 description: "Taskbar Dan File Explorer"
 date: 2022-04-04T05:00:00Z
 image: "/images/Windows_11_HDR.jpg"
-categories: ["Technology", "Data"]
+categories: ["Tutorial"]
 author: "Sam Wilson"
 tags: ["Windows", "Tutorial"]
 draft: false

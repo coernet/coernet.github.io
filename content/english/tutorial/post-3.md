@@ -5,7 +5,7 @@ meta_title: ""
 description: "File Tersembunyi di Flashdisk"
 date: 2022-04-04T05:00:00Z
 image: "/images/command-atribute.png"
-categories: ["Software"]
+categories: ["Tips"]
 author: "John Doe"
 tags: ["Virus", "Tutorial"]
 draft: false
