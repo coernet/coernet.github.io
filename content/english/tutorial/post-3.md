@@ -13,9 +13,7 @@ draft: false
 
 Cara Memunculkan File Tersembunyi di Flashdisk Karena Virus – Keberadaan virus di komputer memang sangat sulit dideteksi / diketahui, karena virus mempunyai kemampuan untuk bersembunyi, menggandakan diri & menyebar ke dalam komputer tanpa diketaui oleh pengguna komputer tersebut.
 
-Jenis dan kemampuannya sendiri bermacam-macam, ada yang bisa memindahkan file/folder ke dalam direktori lain, menyembunyikan atau menghapus file, mengambil data kemudian dikirim ke internet, merusak aplikasi komputer dan masih banyak lagi.
-
-Nah ketika anda memiliki masalah seperti itu, jangan panik dulu karena bisa saja file tersebut masih ada di dalam flashdisk, namun tidak kita lihat. Tetapi untuk memastikan apakah file tersebut masih ada atau tidak silahkan lakukan langkah berikut :
+silahkan lakukan langkah berikut :
 
 ## Melihat File/Folder Yang Tersembunyi
 

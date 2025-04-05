@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on Coernet</title>
-    <link>http://localhost:37135/tags/tutorial/</link>
+    <link>http://localhost:41059/tags/tutorial/</link>
     <description>Recent content in Tutorial on Coernet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:37135/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41059/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Memunculkan File Tersembunyi di Flashdisk Karena Virus</title>
-      <link>http://localhost:37135/tutorial/post-3/</link>
+      <link>http://localhost:41059/tutorial/post-3/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:37135/tutorial/post-3/</guid>
+      <guid>http://localhost:41059/tutorial/post-3/</guid>
       <description>&lt;p&gt;Cara Memunculkan File Tersembunyi di Flashdisk Karena Virus – Keberadaan virus di komputer memang sangat sulit dideteksi / diketahui, karena virus mempunyai kemampuan untuk bersembunyi, menggandakan diri &amp;amp; menyebar ke dalam komputer tanpa diketaui oleh pengguna komputer tersebut.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Memperbaiki taskbar tidak berfungsi windows</title>
-      <link>http://localhost:37135/tutorial/post-2/</link>
+      <link>http://localhost:41059/tutorial/post-2/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:37135/tutorial/post-2/</guid>
+      <guid>http://localhost:41059/tutorial/post-2/</guid>
       <description>&lt;p&gt;Taskbar pada Windows 11 terkadang tidak berfungsi atau tidak merespon. Melalui postingan ini, kami akan memberikan solusinya.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Menonaktifkan Update Windows</title>
-      <link>http://localhost:37135/tutorial/post-4/</link>
+      <link>http://localhost:41059/tutorial/post-4/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:37135/tutorial/post-4/</guid>
-      <description>&lt;p&gt;PEMBARUAN Windows adalah proses di mana sistem operasi Windows diperbarui dengan pemutakhiran terbaru dari Microsoft. Pembaruan ini mungkin mencakup perbaikan keamanan, perbaikan bug, peningkatan fitur, dan lainnya. Pembaruan Windows sangat penting karena membantu menjaga komputer Anda tetap aman dan berfungsi dengan baik.&lt;/p&gt;&#xA;&lt;p&gt;Biasanya, pembaruan otomatis dapat meningkatkan kinerja dan keamanan komputer atau laptop. Namun, sebagian orang menganggap fitur ini mengganggu.&lt;/p&gt;&#xA;&lt;p&gt;Masalah ini sering ditemui oleh pengguna Windows 10. Sistem operasi ini memiliki fitur pembaruan otomatis yang sering kali datang secara tak terduga.&lt;/p&gt;</description>
+      <guid>http://localhost:41059/tutorial/post-4/</guid>
+      <description>&lt;p&gt;Masalah ini sering ditemui oleh pengguna Windows 10. Sistem operasi ini memiliki fitur pembaruan otomatis yang sering kali datang secara tak terduga.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
