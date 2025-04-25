@@ -6,7 +6,7 @@ banner:
   image: "/images/banner-home.png"
   button:
     enable: true
-    label: " "
+    label: "Mulai Sekarang"
     link: "https://coernet.github.io/tutorial/"
 
 # Features
