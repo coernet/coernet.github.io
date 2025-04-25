@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:41059/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tutorial/post-1/</loc>
+    <loc>http://localhost:1313/tutorial/post-1/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tutorial/post-3/</loc>
+    <loc>http://localhost:1313/tutorial/post-3/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tutorial/post-2/</loc>
+    <loc>http://localhost:1313/tutorial/post-2/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tutorial/post-4/</loc>
+    <loc>http://localhost:1313/tutorial/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tags/ms.office/</loc>
+    <loc>http://localhost:1313/tags/ms.office/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/categories/tips/</loc>
+    <loc>http://localhost:1313/categories/tips/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/categories/tutorial/</loc>
+    <loc>http://localhost:1313/categories/tutorial/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tags/tutorial/</loc>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tutorial/</loc>
+    <loc>http://localhost:1313/tutorial/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tags/virus/</loc>
+    <loc>http://localhost:1313/tags/virus/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tags/window/</loc>
+    <loc>http://localhost:1313/tags/window/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/tags/windows/</loc>
+    <loc>http://localhost:1313/tags/windows/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:41059/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>http://localhost:41059/authors/coer-neat/</loc>
+    <loc>http://localhost:1313/authors/coer-neat/</loc>
   </url><url>
-    <loc>http://localhost:41059/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:41059/faq/</loc>
+    <loc>http://localhost:1313/faq/</loc>
   </url><url>
-    <loc>http://localhost:41059/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:41059/privacy-policy/</loc>
+    <loc>http://localhost:1313/privacy-policy/</loc>
   </url><url>
-    <loc>http://localhost:41059/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
   </url><url>
-    <loc>http://localhost:41059/sections/</loc>
+    <loc>http://localhost:1313/sections/</loc>
   </url>
 </urlset>

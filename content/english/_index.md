@@ -5,9 +5,9 @@ banner:
   content: "Belajar budidaya kode (coding) dengan tutorial yang mudah dipahami."
   image: "/images/banner-home.png"
   button:
-    enable: false
+    enable: true
     label: " "
-    link: "https://coernet.github.io/blog/"
+    link: "https://coernet.github.io/tutorial/"
 
 # Features
 

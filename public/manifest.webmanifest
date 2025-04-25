@@ -1,10 +1,10 @@
 {
-  "name": "Coernet",
-  "short_name": "Coernet",
+  "name": "Absolute Comp",
+  "short_name": "Absolute Comp",
   "lang": "en-us",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "http://localhost:41059/?utm_source=web_app_manifest",
+  "start_url": "http://localhost:1313/?utm_source=web_app_manifest",
   "background_color": "#fff",
   "theme_color": "#000",
 

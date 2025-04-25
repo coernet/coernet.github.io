@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Coernet</title>
-    <link>http://localhost:41059/tags/</link>
-    <description>Recent content in Tags on Coernet</description>
+    <title>Tags on Absolute Comp</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Absolute Comp</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:41059/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ms.Office</title>
-      <link>http://localhost:41059/tags/ms.office/</link>
+      <link>http://localhost:1313/tags/ms.office/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:41059/tags/ms.office/</guid>
+      <guid>http://localhost:1313/tags/ms.office/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:41059/tags/tutorial/</link>
+      <link>http://localhost:1313/tags/tutorial/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:41059/tags/tutorial/</guid>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Virus</title>
-      <link>http://localhost:41059/tags/virus/</link>
+      <link>http://localhost:1313/tags/virus/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:41059/tags/virus/</guid>
+      <guid>http://localhost:1313/tags/virus/</guid>
       <description></description>
     </item>
     <item>
       <title>Window</title>
-      <link>http://localhost:41059/tags/window/</link>
+      <link>http://localhost:1313/tags/window/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:41059/tags/window/</guid>
+      <guid>http://localhost:1313/tags/window/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://localhost:41059/tags/windows/</link>
+      <link>http://localhost:1313/tags/windows/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:41059/tags/windows/</guid>
+      <guid>http://localhost:1313/tags/windows/</guid>
       <description></description>
     </item>
   </channel>
